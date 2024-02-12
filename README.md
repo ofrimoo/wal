@@ -1,1 +1,2 @@
-some wallpapers
+some wallpapers..
+up = the image was upscaled
